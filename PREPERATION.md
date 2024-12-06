@@ -17,3 +17,9 @@
    - Add new users by specifying their username, password, and home directory. Set appropriate permissions for each user.
 6. Establishing FTP server on a Windows and MAC using Wing Ftp Starting the Server Establishing FTP server on a Windows and MAC using Wing Ftp:
    - Once the configuration is complete, start the server by clicking on the "Start" button in the main interface.
+   - Additional Configuration (Optional)
+- Establishing FTP server on a Windows and MAC using Wing Ftp Security Settings Establishing FTP server on a Windows and MAC using Wing Ftp: Configure SSL/TLS for secure FTP connections.
+- Establishing FTP server on a Windows and MAC using Wing Ftp Logging and Monitoring Establishing FTP server on a Windows and MAC using Wing Ftp: Enable logging to monitor user activity and server performance.
+- Establishing FTP server on a Windows and MAC using Wing Ftp Automation Establishing FTP server on a Windows and MAC using Wing Ftp: Set up scripts for automated tasks and scheduled file transfers.
+By following these steps, you can effectively set up a Wing FTP Server on both Windows and Mac systems, facilitating seamless file transfer and management in a networked environment.
+
