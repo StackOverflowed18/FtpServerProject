@@ -9,3 +9,4 @@ On a Windows system, establishing an FTP server using Wing FTP is a streamlined 
 ## why you require web-based interface ?
 Ans-> This interface allows administrators to manage users, set permissions, and monitor server activity with ease.)
 Features such as support for multiple protocols (FTP, FTPS, HTTP, HTTPS, and SFTP), real-time monitoring, and comprehensive logging make Wing FTP Server a robust choice for Windows environments.
+  
